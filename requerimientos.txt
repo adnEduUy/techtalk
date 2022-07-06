@@ -1,0 +1,3 @@
+Un sistema que nos permita ingresar mascotas. Se podran crear,modificar y eliminar 
+
+Dado un nombre, debe buscar si existe una mascota registrada en el sistema y devolverla.
